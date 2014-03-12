@@ -1,3 +1,3 @@
 cookielib_renren
 ================
-用cookielib库，登录人人网。
+用python自带的cookielib库，登录人人网。
